@@ -349,6 +349,7 @@ h3{
 }
 .cardiv{
   padding-top: 20%;
+  transition-duration: 400ms;
 }
 .tb1 img{
   display: block;
@@ -361,6 +362,7 @@ h3{
   border-top-right-radius: 450px;
   left: 50%;
   transform: translate(-50%,-80%);
+  transition-duration: 10000ms;
 }
 .tb1{
   font-family: 'Raleway', sans-serif;
